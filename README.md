@@ -1,4 +1,4 @@
-#SilverQuad and Intel (R) Aero RTF Drone
+# SilverQuad and Intel (R) Aero RTF Drone
 
 This is a collective code based on many features available and tested on the Aero Drone
 
